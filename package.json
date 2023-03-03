@@ -2,12 +2,9 @@
   "name": "zst-plan-parser",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "main": "ZstLessonPlanParser.js",
+  "author": "Tsugumik",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "request-promise": "^4.2.6"

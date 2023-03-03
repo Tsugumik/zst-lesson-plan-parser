@@ -1,7 +1,7 @@
 /**
  * Błażej Drozd - Tsugumik 
  * https://github.com/Tsugumik
- * All Rights Reserved
+ * MIT License
  */
 
 const cheerio = require("cheerio");
